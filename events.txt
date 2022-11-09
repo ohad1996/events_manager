@@ -1,6 +1,6 @@
 #this is an example for a file format that the main code will be able to run:
-clientName: ohad
-EventId: 123456789
-eventName: reborth
+client Name: ohad
+Event Id: 123456789
+event Name: reborth
 date: 4/8/2236
 Number of guests: 123
